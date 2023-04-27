@@ -1,1 +1,19 @@
-
+<bug_report> 
+  <ID>A1</ID>
+  <severity>trivial</severity>
+  <environment>IOS_16_4_1_Safari</environment>
+ <bug_itle>The_selected_topic_in_the_content_after_click_is_not_transfered_to_the_beginning_of_the_text</bug_title>
+ <steps>
+   <1>Navigate_to_Capital.com</1>
+   <2>Hover_the_cursor_over_[Education]</2>
+   <3>Click_[CFD traiding guidel]</3>
+   <4>Click_the_accordion_[Content]</4>
+   <5>Click_any_point_of_the_accordion</5>
+  </steps>
+  <expected_result>Transfer_to_the_beginning_of_the_selected_topic</expected_result>
+  <actual_result>Does_not_transer_to_the_beginning_of_the_selected_topic</actual_result>
+  <attachment>link</attacment>
+  <license>all</license>
+  <rolle>all</rolle>
+  <bug_started>@Solvit08</bug_started>
+</bug_report>
