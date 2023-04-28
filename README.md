@@ -3,7 +3,7 @@
  > repositories - new -name :XML - add a readme file -create repository
  2. Clone the XML repository to the local computer.
  > git clone HTTPS of repository
- 3. Create a “new.xml” file inside the local JSON.
+ 3. Create a “new.xml” file inside the local XML.
  > touch new.xml
  4. Add a file under git.
  > git add new.xml
